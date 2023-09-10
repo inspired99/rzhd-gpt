@@ -1,0 +1,38 @@
+# aiogram==2.22.2
+# aiohttp==3.8.3
+# aiosignal==1.2.0
+# async-timeout==4.0.2
+attrs==22.1.0
+Babel==2.9.1
+certifi==2022.9.24
+cffi==1.15.1
+charset-normalizer==2.1.1
+colorama==0.4.5
+docopt==0.6.2
+frozenlist==1.3.1
+idna==3.4
+multidict==6.0.2
+num2words==0.5.12
+numpy==1.23.3
+pycparser==2.21
+python-dotenv==0.21.0
+pytz==2022.4
+requests==2.28.1
+srt==3.5.2
+torch @ https://download.pytorch.org/whl/cu118/torch-2.0.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=a7a49d459bf4862f64f7bc1a68beccf8881c2fa9f3e0569608e16ba6f85ebf7b
+tqdm==4.64.1
+typing_extensions==4.3.0
+urllib3==1.26.12
+vosk==0.3.44
+websockets==10.3
+yarl==1.8.1
+telebot==0.0.5
+pandas==1.4.4
+transformers==4.33.1
+sentence_transformers==2.2.2
+faiss-cpu
+scikit-learn
+librosa
+torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.0.2%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=26692645ea061a005c57ec581a2d0425210ac6ba9f923edf11cc9b0ef3a111e9
+omegaconf
+num2words
