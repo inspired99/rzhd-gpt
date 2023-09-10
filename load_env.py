@@ -8,7 +8,7 @@ def load_all_classes():
     device = 'cpu'
 
     # грузим берт енкодер
-    model = SentenceTransformer("models/content/multilingual-e5-base")
+    model = SentenceTransformer("models/multilingual-e5-base")
     model = model.to(device)
 
     # грузим типы поедов
