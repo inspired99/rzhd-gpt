@@ -14,14 +14,13 @@
 ## Структура
 
 `
-faiss_pipeline
-` - индексы FAISS для поиска в векторном пространстве с использованием эмбеддингов TF-IDF и трансформера [e5-base](https://huggingface.co/intfloat/multilingual-e5-base)
+faiss_pipeline` - индексы FAISS для поиска в векторном пространстве с использованием эмбеддингов TF-IDF и трансформера [e5-base](https://huggingface.co/intfloat/multilingual-e5-base)
 
-`
-requirements.txt
-` - файл с зависимостями
 
 `Dockerfile` - файл для развертывания (деплоя) бота внутри контейнера
+
+`requirements.txt` - файл с зависимостями
+
 
 ## Использование
 
