@@ -26,6 +26,14 @@ faiss_pipeline` - индексы FAISS для поиска в векторном
 
 К данному репозиторию прилагется дополнительный файл, который необходимо скачать для языковой модели e5-base - [ссылка](https://drive.google.com/file/d/1lRJTbZRJ-ZrRZfaKAeQtDWq_i_IlJv9w/view?usp=sharing). Данный файл необходимо расположить в директории по пути `./models/multilingual-e5-base`
 
-Порядок запуска:
+Порядок запуска голосового бота:
 
-1. 
+1. Склонировать репозиторий `git clone git@github.com:inspired99/rzhd-gpt.git`
+
+2. Скачать модель **e5-base** по ссылке выше и разместить в папке `/models/`
+
+3. Cоздать контейнер `docker build -t rzhd_gpt .`
+
+4. Запустить контейнер `docker run rzhd_gpt`
+
+5. Перейти в голосовой ассистент по [ссылке](https://t.me/machinist_helper_bot)
