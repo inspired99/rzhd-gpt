@@ -13,8 +13,7 @@
 
 ## Структура
 
-`
-faiss_pipeline` - индексы FAISS для поиска в векторном пространстве с использованием эмбеддингов TF-IDF и трансформера [e5-base](https://huggingface.co/intfloat/multilingual-e5-base)
+`faiss_pipeline` - индексы FAISS для поиска в векторном пространстве с использованием эмбеддингов TF-IDF и трансформера [e5-base](https://huggingface.co/intfloat/multilingual-e5-base)
 
 
 `Dockerfile` - файл для развертывания (деплоя) бота внутри контейнера
