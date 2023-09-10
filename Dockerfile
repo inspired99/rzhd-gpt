@@ -1,8 +1,8 @@
 FROM python:3.10
 
-COPY ./requirements.txt /app/
+COPY ./requirements.txt .
 
-WORKDIR /app
+WORKDIR .
 
 RUN apt-get update
 RUN apt-get install -y python3-distutils
