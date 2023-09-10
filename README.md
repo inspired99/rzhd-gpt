@@ -19,4 +19,4 @@ faiss_pipeline
 
 ## Использование
 
-К данному репозиторию прилагется дополнительный файл, который необходимо скачать для языковой модели e5-base - [ссылка](https://drive.google.com/file/d/1lRJTbZRJ-ZrRZfaKAeQtDWq_i_IlJv9w/view?usp=sharing). Данный файл необходимо расположить в директории проекта в папке `./models`
+К данному репозиторию прилагется дополнительный файл, который необходимо скачать для языковой модели e5-base - [ссылка](https://drive.google.com/file/d/1lRJTbZRJ-ZrRZfaKAeQtDWq_i_IlJv9w/view?usp=sharing). Данный файл необходимо расположить в директории проекта в папке `./models/multilingual-e5-base`
