@@ -17,6 +17,16 @@
 faiss_pipeline
 ` - индексы FAISS для поиска в векторном пространстве с использованием эмбеддингов TF-IDF и трансформера [e5-base](https://huggingface.co/intfloat/multilingual-e5-base)
 
+`
+requirements.txt
+` - файл с зависимостями
+
+`Dockerfile` - файл для развертывания (деплоя) бота внутри контейнера
+
 ## Использование
 
 К данному репозиторию прилагется дополнительный файл, который необходимо скачать для языковой модели e5-base - [ссылка](https://drive.google.com/file/d/1lRJTbZRJ-ZrRZfaKAeQtDWq_i_IlJv9w/view?usp=sharing). Данный файл необходимо расположить в директории по пути `./models/multilingual-e5-base`
+
+Порядок запуска:
+
+1. 
