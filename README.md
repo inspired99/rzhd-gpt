@@ -50,3 +50,7 @@
 * Елисей Евсеев ([Контакты](https://t.me/elisey999))
 
 * Диана Бармина ([Контакты](https://t.me/DiashaBarmina))
+
+## Скринкасты (примеры работы голосового помощника)
+
+Видео работы бота и веб версии находятся на [гугл-диске](https://drive.google.com/drive/folders/1iP8XcM1B60ptp0qr5KMuX8-6GitIEfRt)
